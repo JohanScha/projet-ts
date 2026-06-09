@@ -1,0 +1,14 @@
+{
+  "name": "mini-projet",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "esbuild src/index.ts --bundle --outfile=dist/bundle.js"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.0",
+    "typescript": "^6.0.3"
+  },
+  "dependencies": {
+    "handlebars": "^4.7.9"
+  }
+}
