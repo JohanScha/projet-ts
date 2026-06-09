@@ -1,3 +1,4 @@
 # projet-ts
 
-- Auteurs : Johan Schaeffer & Loic Durand
+## Auteurs : 
+- Johan Schaeffer & Loic Durand
